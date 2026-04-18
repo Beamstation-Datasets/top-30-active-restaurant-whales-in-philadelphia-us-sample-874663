@@ -9,9 +9,9 @@
 | Dataset ID | `874663` |
 | Location | Philadelphia |
 | Category | Restaurants |
-| Full dataset size | 1,864 records |
-| Free sample size | 196 records (10.52%) |
-| Last export | 2026-04-08T01:09:57.560574+00:00 |
+| Full dataset size | 1,965 records |
+| Free sample size | 196 records (9.97%) |
+| Last export | 2026-04-15T06:45:13.792881+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-philadelphia-us-sample-874663/releases/download/sample-latest/beamstation_874663_restaurants-us-pa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
