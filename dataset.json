@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 30% Active Restaurant Whales in Philadelphia, US",
-  "export_job_id": "40fe2886-dfe1-4ce9-9227-94b8d13e2c91",
+  "export_job_id": "cb7663b0-c4a1-4a1e-8b9a-6efcf43e9979",
   "github_org": "Beamstation-Datasets",
   "id_short": 874663,
   "location_name": "Philadelphia",
   "location_type": "city",
   "repo_name": "top-30-active-restaurant-whales-in-philadelphia-us-sample-874663",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/874663/beamstation_874663_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_pct": 10.52,
+  "sample_pct": 9.97,
   "sample_records": 196,
   "sample_sha256": "b5767f7f141d5bc70c2fe66789c8e4bb363b697eb5cb998f8d47ce1bf7725e93",
   "sample_size_bytes": 819901,
-  "total_records": 1864,
-  "updated_at": "2026-04-08T01:09:57.560574+00:00"
+  "total_records": 1965,
+  "updated_at": "2026-04-15T06:45:13.792881+00:00"
 }
