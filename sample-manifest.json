@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1b680bf8-1f6a-4602-8487-ef0025a31239",
+  "export_job_id": "ff3aeda8-3b3e-4c15-9837-cc49ddb2f5df",
   "id_short": 874663,
-  "published_at": "2026-04-23T07:13:38Z",
+  "published_at": "2026-04-29T19:40:52Z",
   "repo_name": "top-30-active-restaurant-whales-in-philadelphia-us-sample-874663",
   "sample_asset_name": "beamstation_874663_restaurants-us-pa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/874663/beamstation_874663_restaurants-us-pa_SAMPLE_DIST.csv",
-  "sample_records": 187,
-  "sample_sha256": "ab0bac004607db22f00f89e0a1c427726b49307c432b35b8ba3abfc99aef47f3",
-  "sample_size_bytes": 772318,
-  "total_records": 1870
+  "sample_records": 15,
+  "sample_sha256": "b6d60eb9f05f1d4f00508225027ba5a4d98c4dfd8ef336d27771303168062232",
+  "sample_size_bytes": 74179,
+  "total_records": 154
 }
